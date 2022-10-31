@@ -1,7 +1,6 @@
 """
     Based on: https://gist.github.com/xjcl/8ce64008710128f3a076
-    Modified by PedroLopes and ShanYuanTeng for Intro to HCI class but credit remains with author
-
+    
     HOW TO SETUP:
     Start the python game: >python3 pong-audio.py
 
