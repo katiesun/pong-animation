@@ -12,9 +12,6 @@
     HOW TO QUIT: 
     Say "quit". 
     
-    HOW TO INSTALL:
-    Follow https://hciintro19.plopes.org/wiki/doku.php?id=assignment9
-    p.s.: this needs 10x10 image in the same directory: "white_square.png".
 """
 #native imports
 import math
